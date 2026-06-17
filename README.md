@@ -95,7 +95,7 @@ For a task
     <main>
         <section>
             <h2>About Me</h2>
-            <p>I am sharpening my web development skills. This is my very first webpage in a long time, and I am excitingly deepening my HTML & CSS foundations to grow as a developer.</p>
+            <p>I am sharpening my web development skills. This is my very first webpage in a long time, and I am excitingly deepening my HTML & CSS foundations with SheCode Africa Mentorship Programme (SCAMP CYCLE 5)to grow as a developer.</p>
         </section>
 
         <section>
